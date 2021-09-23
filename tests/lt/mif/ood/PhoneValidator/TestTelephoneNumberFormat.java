@@ -27,7 +27,7 @@ public class TestTelephoneNumberFormat {
     @Test
     void failWithNegativeLength(){
         assertThrows(IllegalArgumentException.class, () -> {
-            new TelephoneNumberFormat(8, "+370", "8");
+            new TelephoneNumberFormat(-8, "+370", "8");
         });
     }
 
