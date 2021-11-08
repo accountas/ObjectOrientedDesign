@@ -20,3 +20,8 @@ Kaip jus galėtumete juos pagerinti ?
 Kokius unit testus jus galėtumėte pridėti (jei tokių yra) ?
 
 - Daug ten ju truksta, ypac emailo validatoriui 
+
+## Lab3 
+Implementuotas UserService naudojant duotus validatorius
+
+Driverio/Fronto kaip supratau nereikejo, bet jei ne taip supratau tai yra UserServiceIntegration testas, kur suziuri kad viskas veiktu kaip intended
